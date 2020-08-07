@@ -13,7 +13,7 @@
 <br>
 
 
-🖖🏼  Hi! I'm a co-founder and Front-End Engineer at [JSaplication](https://jsaplication.com.br/)
+🖖🏼  Hi! I'm co-founder and Front-End Engineer at [JSaplication](https://jsaplication.com.br/)
 
 :books: I'm studying about Full-Stack developer with JavaScript (Node.js, ReactJS).
 
