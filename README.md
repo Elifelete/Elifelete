@@ -19,7 +19,7 @@
 
 - 😄 can you call me by eli
 - ⚡ my main objective is to positively impact society through technology
-
+- :speech_balloon: ask me about html, css, javascript
 <br>
 
 Thanks for reading
