@@ -10,14 +10,11 @@
 <br>
 
 
-🖖🏼  Hi! I'm co-founder and Front-End Engineer at [JSaplication](https://jsaplication.com.br/)
-
-:books: I'm studying about Full-Stack developer with JavaScript (Node.js, ReactJS).
+🖖🏼  Hi! I'm Full-Stack Developer
 
 - 😄 can you call me by eli
-- ⚡ my main objective is to positively impact society through technology
-- :computer: Html, Css, Javascript, Node
-- :speech_balloon: ask me about: tech, games, movies
+- 🧡 Loves technology and innovation
+- :computer: ReactJs, Node.js
 <br>
 
 Thanks for reading
